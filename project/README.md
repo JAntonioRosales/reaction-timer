@@ -21,6 +21,6 @@ If the user presses one or more buttons before the countdown of LEDs finishes, t
 
 ## Code structure
 
-The code developed for the project is named main.c and it can be found in this same directory.
+The code developed for the project is named `main.c` and it can be found in this same directory.
 
 The first part of the code declares a set of variables used throughout the program. Afterwards, a few routines are defined to be used throughout the code. Finally, the three main parts of the implementation are developed: initialization (flashing), countdown, and reaction.
